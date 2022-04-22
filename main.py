@@ -2,7 +2,6 @@
 from tkinter import *
 
 #generic comment
-#generic comment 2
 
 window=Tk()
 window.title('Chess Engine')
